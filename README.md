@@ -65,7 +65,7 @@ curl -O https://raw.githubusercontent.com/yourusername/kana-learning-tool/main/k
 🖥️ Screenshots
 
 ╔════════════════════════════════════════╗
-║        Japanese Kana Learning Tool        ║
+║        Japanese Kana Learning Tool     ║
 ╚════════════════════════════════════════╝
 
 Choose an option:

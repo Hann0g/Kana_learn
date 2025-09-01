@@ -62,23 +62,6 @@ bash
 
 curl -O https://raw.githubusercontent.com/yourusername/kana-learning-tool/main/kana_learn.sh && bash kana_learn.sh
 
-🖥️ Screenshots
-
-╔════════════════════════════════════════╗
-║        Japanese Kana Learning Tool     ║
-╚════════════════════════════════════════╝
-
-Choose an option:
-1) Hiragana Chart
-2) Katakana Chart  
-3) Both Charts
-4) Quiz Mode (Hiragana)
-5) Learning Tips
-6) Stroke Order Info
-7) Save Charts to File
-8) Clear Screen
-9) Quit
-
 📚 Learning Path
 
     Start with Hiragana - Master the basic 46 characters

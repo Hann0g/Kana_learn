@@ -40,11 +40,11 @@ Option 3: Windows Executable
     Download kana_learn.exe from the Releases page
     Double-click to run (no installation needed!)
 
-Mac/Linux Users
+🍎🐧Mac/Linux Users
 bash
 
 git clone https://github.com/Hann0g/kana_learn.git
-cd kana-learn
+cd kana_learn
 chmod +x kana_learn.sh
 ./kana_learn.sh
 

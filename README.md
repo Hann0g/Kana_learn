@@ -32,7 +32,7 @@ Option 2: WSL (Windows Subsystem for Linux)
     bash
 
     git clone https://github.com/Hann0g/Kana_learn.git
-    cd kana-learning-tool
+    cd kana_learn
     ./kana_learn.sh
 
 Option 3: Windows Executable

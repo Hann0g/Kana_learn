@@ -20,7 +20,7 @@ Option 1: Git Bash (Easiest)
     Download the script:
     bash
 
-    git clone https://github.com/yourusername/kana-learning-tool.git
+    git clone https://github.com/yourusername/kana_learning.git
     cd kana-learning-tool
     bash kana_learn.sh
 
@@ -31,7 +31,7 @@ Option 2: WSL (Windows Subsystem for Linux)
     Open WSL terminal and run:
     bash
 
-    git clone https://github.com/yourusername/kana-learning-tool.git
+    git clone https://github.com/yourusername/kana_learning.git
     cd kana-learning-tool
     ./kana_learn.sh
 
@@ -43,7 +43,7 @@ Option 3: Windows Executable
 Mac/Linux Users
 bash
 
-git clone https://github.com/yourusername/kana-learning-tool.git
+git clone https://github.com/yourusername/kana_learning.git
 cd kana-learning-tool
 chmod +x kana_learn.sh
 ./kana_learn.sh
@@ -55,12 +55,12 @@ Click the green "Code" button → "Download ZIP" → Extract → Run
 Method 2: Git Clone
 bash
 
-git clone https://github.com/yourusername/kana-learning-tool.git
+git clone https://github.com/yourusername/kana_learning.git
 
 Method 3: One-liner (Mac/Linux/Git Bash)
 bash
-
-curl -O https://raw.githubusercontent.com/yourusername/kana-learning-tool/main/kana_learn.sh && bash kana_learn.sh
+https://github.com/Hann0g/Kana_learn.git
+curl -O https://github.com/Hann0g/Kana_learn.git/kana_learn.sh && bash kana_learn.sh
 
 📚 Learning Path
 

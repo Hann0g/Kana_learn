@@ -55,7 +55,7 @@ Click the green "Code" button → "Download ZIP" → Extract → Run
 Method 2: Git Clone
 bash
 
-git clone https://github.com/Hann0g/kana_learning.git
+git clone https://github.com/Hann0g/kana_learn.git
 
 Method 3: One-liner (Mac/Linux/Git Bash)
 bash

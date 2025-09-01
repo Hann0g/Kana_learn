@@ -1,4 +1,4 @@
-Japanese Kana Learning Tool 🇯🇵
+Japanese Learning Tool 🇯🇵
 
 An interactive command-line tool for learning Hiragana and Katakana characters with built-in quizzes and study features.
 

@@ -44,8 +44,11 @@ Option 3: Windows Executable
 bash
 
 git clone https://github.com/Hann0g/Kana_learn.git
+
 cd kana_learn
+
 chmod +x kana_learn.sh
+
 ./kana_learn.sh
 
 📦 Installation Methods

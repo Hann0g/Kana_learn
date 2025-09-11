@@ -11,67 +11,7 @@ An interactive command-line tool for learning Hiragana and Katakana characters w
     💾 Export Charts - Save reference materials to text files
     🌈 Colorful Interface - Enhanced visual experience
 
-🚀 Quick Start
-Windows Users (Recommended)
 
-Option 1: Git Bash (Easiest)
-
-    Install Git for Windows (includes Git Bash)
-    Download the script:
-    bash
-
-    git clone https://github.com/Hann0g/Kana_learn.git
-    cd kana_learn
-    bash kana_learn.sh
-
-Option 2: WSL (Windows Subsystem for Linux)
-
-    Install WSL: wsl --install in PowerShell (admin)
-    Restart your computer
-    Open WSL terminal and run:
-    bash
-
-    git clone https://github.com/Hann0g/Kana_learn.git
-    cd kana_learn
-    ./kana_learn.sh
-
-Option 3: Windows Executable
-
-    Download kana_learn.exe from the Releases page
-    Double-click to run (no installation needed!)
-
-🍎🐧Mac/Linux Users
-bash
-
-git clone https://github.com/Hann0g/Kana_learn.git
-
-cd kana_learn
-
-chmod +x kana_learn.sh
-
-./kana_learn.sh
-
-📦 Installation Methods
-Method 1: Direct Download
-
-Click the green "Code" button → "Download ZIP" → Extract → Run
-Method 2: Git Clone
-bash
-
-git clone https://github.com/Hann0g/Kana_learn.git
-
-Method 3: One-liner (Mac/Linux/Git Bash)
-bash
-https://github.com/Hann0g/Kana_learn.git
-curl -O https://github.com/Hann0g/Kana_learn.git/kana_learn.sh && bash kana_learn.sh
-
-📚 Learning Path
-
-    Start with Hiragana - Master the basic 46 characters
-    Practice Daily - Use the quiz mode for 10-15 minutes
-    Learn Katakana - After you're comfortable with Hiragana
-    Study Tips - Read the built-in learning strategies
-    Write Practice - Use the stroke order guide
 
 🤝 Contributing
 
